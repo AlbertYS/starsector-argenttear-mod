@@ -1,0 +1,56 @@
+{
+  "animationType": "MUZZLE_FLASH",
+  "barrelMode": "ALTERNATING",
+  "displayArcRadius": 650,
+  "fireSoundTwo":"light_machinegun_fire",
+  "hardpointAngleOffsets": [
+    0,
+    0
+  ],
+  "hardpointGunSprite": "graphics/weapons/Irongale PD/pd_irongale_hardpoint_recoil.png",
+  "hardpointOffsets": [
+    20.5,
+    3.5,
+    20.5,
+    -3.5
+  ],
+  "hardpointSprite": "graphics/weapons/Irongale PD/pd_irongale_hardpoint_base.png",
+  "id": "alkolyte_pd_rip_he",
+  "muzzleFlashSpec": {
+    "length": 25,
+    "particleColor": [
+      240,
+      20,
+      20,
+      175
+    ],
+    "particleCount": 12,
+    "particleDuration": 0.3,
+    "particleSizeMin": 7,
+    "particleSizeRange": 12,
+    "spread": 6
+  },
+  "projectileSpecId": "alkolyte_rip_he_shot",
+  "renderHints": [
+    RENDER_BARREL_BELOW
+  ],
+  "size": "SMALL",
+  "specClass": "projectile",
+  "specialWeaponGlowHeight": 40,
+  "specialWeaponGlowWidth": 15,
+  "textureType": ROUGH,
+  "turretAngleOffsets": [
+    0,
+    0
+  ],
+  "turretGunSprite": "graphics/weapons/Irongale PD/pd_irongale_turret_recoil.png",
+  "turretOffsets": [
+    12,
+    2.5,
+    12,
+    -2.5
+  ],
+  "turretSprite": "graphics/weapons/Irongale PD/pd_irongale_turret_base.png",
+  "type": "BALLISTIC",
+  "visualRecoil": 6
+}

@@ -1,0 +1,19 @@
+{
+	"id":"alkolyte_rip_he_shot",
+	"specClass":"projectile",
+	"spawnType":"BALLISTIC_AS_BEAM",
+	"collisionClass":"RAY",
+	"collisionClassByFighter":"RAY_FIGHTER",
+	"hitGlowRadius":20,
+	#"spawnType":"BALLISTIC",
+	#"collisionClass":"PROJECTILE_FF",
+	#"collisionClassByFighter":"PROJECTILE_FIGHTER",
+	"length":45.0,
+	"width":4.5,
+	"fadeTime":0.3,
+	"fringeColor":[180,10,10,200],
+	"coreColor":[240,20,20,80],
+	"textureScrollSpeed":64.0,
+	"pixelsPerTexel":5.0,
+	"bulletSprite":"graphics/missiles/shell_small_yellow.png"
+}

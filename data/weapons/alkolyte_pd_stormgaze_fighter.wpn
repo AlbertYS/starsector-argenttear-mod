@@ -1,0 +1,55 @@
+{
+  "collisionClass": "RAY",
+  "collisionClassByFighter": "RAY_FIGHTER",
+  "coreColor": [
+    255,
+    255,
+    255,
+    255
+  ],
+  "fireSoundOne": "burst_pd_fire",
+  "fringeColor": [
+    187,
+    44,
+    0,
+    255
+  ],
+  "glowColor": [
+    187,
+    44,
+    0,
+    255
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "hardpointGlowSprite": "graphics/weapons/Stormgaze PD/pd_stormgaze_hardpoint_glow.png",
+  "hardpointOffsets": [
+    16,
+    0
+  ],
+  "hardpointSprite": "graphics/weapons/Stormgaze PD/pd_stormgaze_hardpoint_base.png",
+  "hitGlowRadius": 0,
+  "id": "alkolyte_pd_stormgaze_fighter",
+  "pierceSet": [
+    PROJECTILE_FF,
+    PROJECTILE_NO_FF,
+    PROJECTILE_FIGHTER
+  ],
+  "pixelsPerTexel": 5,
+  "size": "SMALL",
+  "specClass": "beam",
+  "textureScrollSpeed": 128,
+  "textureType": ROUGH,
+  "turretAngleOffsets": [
+    0
+  ],
+  "turretGlowSprite": "graphics/weapons/Stormgaze PD/pd_stormgaze_turret_glow.png",
+  "turretOffsets": [
+    7.5,
+    0
+  ],
+  "turretSprite": "graphics/weapons/Stormgaze PD/pd_stormgaze_turret_base.png",
+  "type": "ENERGY",
+  "width": 14
+}

@@ -1,0 +1,14 @@
+id,type,text1,text2,text3,text4,notes,Column 08
+alkolyte_nightwatch,SHIP,"Nightwatch interceptors come with a myriad of weapons perfect for hunting rival small craft.",,,,,
+alkolyte_gatecrasher,SHIP,"Gatecrashers are heavy plated fighters suited for breaching point defense lines and causing havoc to less protected vessels.",,,,,
+,,,,,,,
+alkolyte_yinneanne,SHIP,"A familiar ship of a design not recognizable to the greater sector. Technology of unknown principles have been discovered integrated throughout the superstructure, yet the ship appears to be human in design. The systems onboard appear to defy analysis. One thing, however, is clear. This ship was forged for war.
+
+""Sometimes the silver lining needs to be torn out from the seam.""",,,,,
+,,,,,,,
+alkolyte_pd_irongale,WEAPON,"Irongale flak cannons are rather potent platforms able to keep up with most target rich enviroments, their unique burst flechette munitions have smaller areas of effect but deal greater damage to fighters.",Point Defense,,,,
+alkolyte_pd_stormgaze,WEAPON,"Stormgaze repeaters are designed to handle large groups of targets with their quick bursts and quicker targeting package.",Point Defense,,,,
+,,,,,,,
+alkolyte_pd_rip_ke,WEAPON,"Rip spool cannons are known for their high fire rate and high velocities, a suitable weapon for high speed small craft.",,,,,
+alkolyte_pd_rip_he,WEAPON,"Rip spool cannons are known for their high fire rate and high velocities, a suitable weapon for high speed small craft. This variant has been outfitted with high explosive shells.",,,,,
+alkolyte_pd_stormgaze_fighter,WEAPON,"Stormgaze repeaters are designed to handle large groups of targets with their quick bursts and quicker targeting package. Recharge rate is reduced due to a smaller capacitor than standard models due to the light chassis mount requirements.",,,,,

@@ -1,0 +1,5 @@
+name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,c/s,c/f,f/s,f/f,crew/s,crew/f,hints,tags,rarity,breakProb,minPieces,maxPieces,travel drive,number
+Nightwatch,alkolyte_nightwatch,,High Tech,,4,350,35,200,,60,0,,310,450,400,100,270,15,OMNI,,270,0,1,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,
+Gatecrasher,alkolyte_gatecrasher,,High Tech,flarelauncher_fighter,4,450,80,400,,60,0,,210,375,350,95,240,50,OMNI,,180,0,1,,,0,0,,,,,,,,,,,,,,,,,,,,,,0,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Yinneanne,alkolyte_yinneanne,Battleship,High Tech,reservewing,20,10000,1100,16000,20000,1350,320,2,60,30,25,9,7,2700,OMNI,,110,0.3,1.1,,,450,600,400,400,10,30,8,350000,4,15,900,0.25,34,34,,,,,,,,,,0.5,2,4,,

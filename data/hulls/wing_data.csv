@@ -1,0 +1,3 @@
+id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackRunRange,attackPositionOffset,num,role,role desc,refit,base value,,,,,,,,,,,,,number
+alkolyte_nightwatch_Interceptor_wing,alkolyte_nightwatch_Interceptor,"rare_bp, no_sell, interceptor, interceptor7, auto_fighter, merc",3,0.5,6,3,CLAW,4000,200,600,5,INTERCEPTOR,Interceptor Drone,9,5000,,,,,,,,,,,,,
+alkolyte_gatecrasher_Fighter_wing,alkolyte_gatecrasher_Fighter,"rare_bp, no_sell, fighter, fighter7, auto_fighter, merc",3,0.5,6,3,V,4000,500,,3,FIGHTER,Fighter Drone,11,5000,,,,,,,,,,,,,
